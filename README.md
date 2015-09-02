@@ -1,2 +1,2 @@
 # git-test.
-hoge
+hoge.
